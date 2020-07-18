@@ -4,6 +4,8 @@
 ### I have named all the car images as c1.jpg, c2.jpg...... and Airplane images as p1.jpg, p2.jpg......
 ### test_car.jpg, test_plane.jpg .... are the random images from web to test the model.
 
+### This project can be broken down into certain tasks as follows:
+
 Task 1: Loading the Images.
 
 Task 2: Pre-processing images using the EBImage package in R.
